@@ -1,7 +1,7 @@
 # C++ DLL Automation & Reverse Engineering Assignment
 
 ## Objective
-Non-Admin Requirement
+Non-Admin Requirement.
 Important: The entire solution must work without Administrator privileges.
 
 Create a C++ application that automates changing the default search engine in Microsoft Edge.
