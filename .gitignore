@@ -1,0 +1,8 @@
+.vs/
+x64/
+Debug/
+packages/
+*.pdb
+*.obj
+*.ipch
+*.log
